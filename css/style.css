@@ -165,7 +165,7 @@ img {
     font-weight: bold;
 }
 
-.profile-content {
+.profile-content, {
     margin-top: 25px;
     width: 100%;
     display: flex;
@@ -237,4 +237,27 @@ img {
 .social-networks-item img {
     width: 50px;
     height: 50px;
+}
+
+.form-content {
+    margin-top: 25px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.form-data {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    min-height: 625px;   
+    border-radius: 20px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19); 
+}
+.form-data iframe {
+    height: 620px;
+    width: 100%;
+    overflow-y: hidden;
 }
