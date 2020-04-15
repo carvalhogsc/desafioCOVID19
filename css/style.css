@@ -276,6 +276,8 @@ img {
 
 .more-content h1 {
     margin: 0 20px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
 }
 
 .more-content p {
