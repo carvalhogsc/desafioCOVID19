@@ -313,6 +313,16 @@ img {
         justify-content: center;
     }
 
+    .menu .container {
+        align-items: center;
+        justify-content: center;
+        
+    }
+
+    .menu-logo {
+        margin-bottom: 15px;
+    }
+
     .container-news {
         width: 100%;
     }
